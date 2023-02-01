@@ -1,5 +1,5 @@
 # VR-study
-# Data set to accompany the virtual reality for philanthropy study
+# Dataset to accompany the virtual reality for philanthropy study
 #
 #Legend
 #Condition	1 = VR, Happy, Active; 2 = VR, Sad, Active; 3 = VR, Happy, Passive; 4 = VR, Sad, Passive; 5 = Screen, Happy, Active; 6 = Screen, Sad, Active; 7 = Screen, Happy, Passive; 8 = Screen, Sad, Passive
